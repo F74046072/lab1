@@ -1,0 +1,13 @@
+Script started on 2016年03月12日 (週六) 17時01分11秒
+]0;F74046072@2015cpp: ~F74046072@2015cpp:~$ whoami; pwd
+F74046072
+/home/F74046072
+]0;F74046072@2015cpp: ~F74046072@2015cpp:~$ git config -l
+user.name=孫祥恩
+user.email=ab37695543xs@outlook.com
+]0;F74046072@2015cpp: ~F74046072@2015cpp:~$ git c;one[K[K[K[Klone https://github.com/F74046072/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046072@2015cpp: ~F74046072@2015cpp:~$ exit
+
+Script done on 2016年03月12日 (週六) 17時02分23秒
